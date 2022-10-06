@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="priyamkushwaha" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React And BlockChain**
 
 - 💬 Ask me about **Web technologies**
 
